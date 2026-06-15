@@ -5,6 +5,7 @@ role: President
 affiliation: MIT PSFC
 aliases:
   - S.G. Baek
+  - Seung Gyou Baek
 links:
   email: sgbaek@mit.edu
   home-page: https://psfc.mit.edu
