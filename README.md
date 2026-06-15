@@ -5,6 +5,6 @@
 
   # New England Korean Nuclear Society (NEKNS)'s Website
 
-  Visit **[youychoi.github.io/nekns](https://youychoi.github.io/nekns)** 🚀
+  Visit **[nekns.com](http://nekns.com)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
