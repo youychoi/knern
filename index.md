@@ -3,7 +3,7 @@
 
 # Welcome ⚛️
 
-Welcome to Korean Nuclear Energy Researcher Network (KNERN)! Our network is based in New England and connects Korean professionals and researchers in the nuclear field across the region. We aim to foster collaboration, share knowledge, and build a supportive community where ideas, mentorship, and networking thrive. Whether you’re a student, researcher, or industry professional, we’re glad you’re here.
+Welcome to New England Korean Nuclear Society (NEKNS)! Our network is based in New England and connects Korean professionals and researchers in the nuclear field across the region. We aim to foster collaboration, share knowledge, and build a supportive community where ideas, mentorship, and networking thrive. Whether you’re a student, researcher, or industry professional, we’re glad you’re here.
 
 {% include section.html %}
 
