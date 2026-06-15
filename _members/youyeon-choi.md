@@ -5,6 +5,7 @@ role: External Affairs
 affiliation: MIT
 aliases:
   - Y. Choi
+  - Youyeon Choi
 links:
   email: yychoi@mit.edu
   orcid: 0000-0001-9395-2796
