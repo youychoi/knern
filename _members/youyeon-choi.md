@@ -1,6 +1,6 @@
 ---
 name: Youyeon Choi
-image: images/photo.jpg
+image: images/Youyeon-Choi-profile.jpg
 role: External Affairs
 affiliation: MIT
 aliases:
